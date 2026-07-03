@@ -48,7 +48,11 @@ The repository includes the following essential template files:
 
 ## 🚀 Step-by-Step Setup Guide
 
-Preferably do all the steps on your Android mobile phone. You can choose between **two different paths** depending on your visual preference for your stream layout:
+Preferably do all the steps on your Android mobile phone.
+
+You can choose between **two different paths** depending on your visual preference for your stream layout:
+
+### 🎬 Configuring AIOStreams
 
 ### 🔹 Route A: Using Badges (RECOMENDED Visual Setup)
 This path provides a rich graphical experience using clean icons and gold badges for stream resolutions, formats, and audio attributes.

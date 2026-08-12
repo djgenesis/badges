@@ -1,8 +1,6 @@
-Here is the updated, comprehensive `README.md` file. It merges your step-by-step setup guide—including TV setup, phone/PC configuration, family member login flow, and important streaming notes—with the existing file structure, catalog listings, and addon templates.
-
 ---
 
-# "Stream app" Configuration Templates
+# "Stream app" Setup and Configuration
 
 
 
@@ -304,6 +302,11 @@ Follow these steps when setting up an extra device or family member profile:
 
 * An Android phone/tablet or Windows PC.
 
+
+* An active account with [`Trakt.tv`](https://trakt.tv/)
+
+
+* The original primary member's account credentials OR another active profile member to grant you access.
 
 
 ### Steps

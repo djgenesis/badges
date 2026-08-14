@@ -1,5 +1,3 @@
-Here is the completely updated `README.md` file incorporating Step 9, cleaned of search wrapper links, and strictly formatted:
-
 ---
 
 # "Stream app" Setup and Configuration

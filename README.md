@@ -40,18 +40,6 @@ Before starting, ensure you have set up the following accounts:
 
 ---
 
-## 🛠️ Repository File Structure
-
-* [`aiometadata-config.json`](https://www.google.com/search?q=https://github.com/djgenesis/stream/blob/main/aiometadata-config.json) – Master configuration template for AIOMetadata.
-* [`aiostreams-config.json`](https://www.google.com/search?q=https://github.com/djgenesis/stream/blob/main/aiostreams-config.json) – Base configuration template for AIOStreams.
-* [`aiostreams-template.json`](https://www.google.com/search?q=https://github.com/djgenesis/stream/blob/main/aiostreams-template.json) – Core template layout for media streams.
-* [`gold_badges_complete.json`](https://www.google.com/search?q=https://github.com/djgenesis/stream/blob/main/gold_badges_complete.json) – Custom gold badges layout for stream resolution, audio formats, and video codecs.
-* [`formatter-usingbadges.json`](https://www.google.com/search?q=https://github.com/djgenesis/stream/blob/main/formatter-usingbadges.json) – Stream formatting optimized for visual badges.
-* [`formatter-notusingbadges.json`](https://www.google.com/search?q=https://github.com/djgenesis/stream/blob/main/formatter-notusingbadges.json) – Plain text stream formatting.
-* [`media-collections.json`](https://github.com/djgenesis/stream/blob/main/media-collections.json) – Custom media collections configuration template.
-
----
-
 ## 🚀 Complete Step-by-Step Setup Guide
 
 ### Step 1: Prepare Your TV / TV Box
@@ -103,17 +91,7 @@ Before starting, ensure you have set up the following accounts:
 
 ---
 
-### Step 6: Link Your Account to Your TV
-
-1. Go back to your TV screen where the QR code and link are displayed.
-2. **If using an Android Phone/Tablet:** Scan the QR code on the TV screen using your phone camera/scanner.
-3. **If using a Windows PC:** Open a browser, visit the web link shown on the TV, and log in with your credentials if requested.
-4. Your TV / TV Box will automatically authorize and enter the app interface!
-5. Go to **Settings — Advanced** and select **Remember Last Profile**.
-
----
-
-### Step 7: Player & Subtitle Settings (Recommended for Optimum Experience)
+### Step 6: Player & Subtitle Settings (Recommended for Optimum Experience)
 
 1. In the streaming app, go to **Settings — Streams**.
 2. Paste the raw URL of `gold_badges_complete.json` (`[https://raw.githubusercontent.com/djgenesis/stream/refs/heads/main/gold_badges_complete.json](https://raw.githubusercontent.com/djgenesis/stream/refs/heads/main/gold_badges_complete.json)`) into **Fusion Badges URLs**. Disable size badges and addon logo, and set the badge position to **Top**.
@@ -126,18 +104,28 @@ Before starting, ensure you have set up the following accounts:
 
 ---
 
-### Step 8: Watchlist Sync & Tracking (Recommended)
+### Step 7: Watchlist Sync & Tracking (Recommended)
 
 1. Create a free account at [trakt.tv](https://trakt.tv/) if you don't have one.
 2. Inside the app, go to **Settings → Tracking** and connect your Trakt account to back up your watch history and sync watchlists.
 
 ---
 
-### Step 9: Import Media Collections (Recommended)
+### Step 8: Import Media Collections (Recommended)
 
 1. Open the application's website / web client on your device.
 2. Navigate to **Collections → Import**.
 3. Import [`media-collections.json`](https://github.com/djgenesis/stream/blob/main/media-collections.json) from this repository to load pre-configured custom collections.
+
+---
+
+### Step 9: Link Your Account to Your TV
+
+1. Go back to your TV screen where the QR code and link are displayed.
+2. **If using an Android Phone/Tablet:** Scan the QR code on the TV screen using your phone camera/scanner.
+3. **If using a Windows PC:** Open a browser, visit the web link shown on the TV, and log in with your credentials if requested.
+4. Your TV / TV Box will automatically authorize and enter the app interface!
+5. Go to **Settings — Advanced** and select **Remember Last Profile**.
 
 ---
 

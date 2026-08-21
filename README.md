@@ -83,9 +83,9 @@ Before starting, ensure you have set up the following accounts:
 
 ### Step 5: Configure Collections
 
-1. Open **Bingecat** [https://bingecat.com/collections](https://bingecat.com/collections) and create an account if you don't have one.
-2. Connect your **Stream app** in [https://bingecat.com/usersettings](https://bingecat.com/usersettings).
-3. Click **Import** in [https://bingecat.com/usersettings](https://bingecat.com/collections).
+1. Open [Bingecat Collections](https://bingecat.com/collections) and create an account if you don't have one.
+2. Connect your **Stream app** in [Bingecat Usersettings](https://bingecat.com/usersettings).
+3. Click **Import** in [Bingecat Collections](https://bingecat.com/collections).
 4. Import the file "collections-bingecat" from this repository.
 5. Bingecat will update your profile's collections automatically.
 6. If you have created other profiles, upload the file "collections-profile" from this repository in .../account?tab=collections for each profile separately.

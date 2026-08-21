@@ -22,21 +22,12 @@ Before starting, ensure you have set up the following accounts:
 1. **An active Debrid Subscription** (e.g., RealDebrid, AllDebrid, Premiumize, etc.).
 2. **Accounts and API Keys** for metadata and layout providers (you will input these keys during configuration):
 
-* [`Google Gemini API`](https://ai.google.dev/)
-* [`OpenRouter API`](https://openrouter.ai/)
-* [`TMDB`](https://www.themoviedb.org/)
-* [`TVDB`](https://thetvdb.com/)
-* [`Fanart.tv`](https://fanart.tv/)
-* [`Rating Poster DB (RPDB)`](https://ratingposterdb.com/)
-* [`TopPoster`](https://topposter.com/)
-* [`MdbList`](https://mdblist.com/)
 * [`Trakt.tv`](https://trakt.tv/)
-* [`Simkl`](https://simkl.com/)
-* [`AniList`](https://anilist.co/)
+* [`Bingecat`](https://bingecat.com)
 
 3. **Addon Instance Uptime Status:** Select active addon instances and monitor their real-time status at [IbbyLabs Uptime](https://www.google.com/search?q=https://uptime.ibbylabs.dev/).
 
-⚠️ **Important Infrastructure Advice:** For optimal performance and system stability, use **only one instance for AIOMetadata** and **one instance for AIOStreams** (or a single secondary instance strictly as a backup).
+⚠️ **Important Infrastructure Advice:** For optimal performance and system stability, use **only one instance for AIOStreams** (or a single secondary instance strictly as a backup).
 
 ---
 
@@ -112,15 +103,7 @@ Before starting, ensure you have set up the following accounts:
 
 ---
 
-### Step 8: Import Media Collections (Recommended)
-
-1. Open the application's website / web client on your device.
-2. Navigate to **Collections → Import**.
-3. Import [`media-collections.json`](https://github.com/djgenesis/stream/blob/main/media-collections.json) from this repository to load pre-configured custom collections.
-
----
-
-### Step 9: Link Your Account to Your TV
+### Step 8: Link Your Account to Your TV
 
 1. Go back to your TV screen where the QR code and link are displayed.
 2. **If using an Android Phone/Tablet:** Scan the QR code on the TV screen using your phone camera/scanner.
@@ -130,7 +113,7 @@ Before starting, ensure you have set up the following accounts:
 
 ---
 
-### Step 10: Test Your Setup
+### Step 9: Test Your Setup
 
 1. Go to the **Discover** section on your TV app.
 2. Click on any Movie or TV show.

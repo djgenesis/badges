@@ -81,13 +81,14 @@ Before starting, ensure you have set up the following accounts:
 
 ---
 
-### Step 5: Configure AIOMetadata
+### Step 5: Configure Collections
 
-1. Open the configuration page for an active **AIOMetadata** instance (check [IbbyLabs Uptime](https://www.google.com/search?q=https://uptime.ibbylabs.dev/)).
-2. Select **Upload Template** and upload `aiometadata-config.json` from this repository.
-3. Input all your personalized API keys (TMDB, TVDB, Gemini, OpenRouter, Fanart, RPDB, TopPoster, MdbList, etc.) into their respective fields.
-4. Click **Install / Generate Link**.
-5. Click **Install** inside the streaming app.
+1. Open **Bingecat** [https://bingecat.com/collections](https://bingecat.com/collections) and create an account if you don't have one.
+2. Connect your **Stream app** in [https://bingecat.com/usersettings](https://bingecat.com/usersettings).
+3. Click **Import** in [https://bingecat.com/usersettings](https://bingecat.com/collections).
+4. Import the file "collections-bingecat" from this repository.
+5. Bingecat will update your profile's collections automatically.
+6. If you have created other profiles, upload the file "collections-profile" from this repository in .../account?tab=collections for each profile separately.
 
 ---
 
